@@ -1,0 +1,25 @@
+4 3 0
+0 0 0 0
+1 1 0 0
+2 0 1 0
+3 1.1 1.1 0
+2 3 0
+0 0 1 2
+1 1 2 3
+property_no
+is_missing:0 means yes
+is_encroached:0 means yes
+Panel no
+cell id
+in_tet.size
+Quality^2
+In Quality measure lists
+Quality_bounded_by_segment_angle
+circumradius^2.mid
+Sqrt(area)
+Random
+No NULL neighbours
+Facet is_coordinate_aligned
+Is coplanar
+does_shortest_edge_connect_segments
+No contained segments
